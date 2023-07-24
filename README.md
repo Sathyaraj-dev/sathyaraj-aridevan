@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sathyaraj Aridevan</h1>
 <h3 align="center">A Senior frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyaraj-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sathyaraj-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathyaraj-dev" alt="sathyaraj-dev" /></a> </p>
 
 - 🔭 I’m currently working on [React Projects](link)
 
@@ -13,11 +10,10 @@
 
 - 🤝 I’m looking for help with [job](link3)
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
-
-- 💬 Ask me about **Front end development**
+- 💬 Ask me about **Front end development, javascript, jQuery, ReactJS**
 
 - 📫 How to reach me **sathyaraj1986a@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathyaraj-dev&show_icons=true&locale=en&layout=compact" alt="sathyaraj-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathyaraj-dev&show_icons=true&locale=en" alt="sathyaraj-dev" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathyaraj-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sathyaraj-dev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathyaraj-dev" alt="sathyaraj-dev" /></a> </p>
