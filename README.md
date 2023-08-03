@@ -4,7 +4,7 @@
 
 👋 I'm a passionate and highly skilled front-end developer with a keen eye for design and a love for creating engaging user experiences. My expertise lies in building responsive and interactive web applications using the latest technologies and best practices.
 
-🚀 Skilled in Front-End Technologies such as HTML, CSS, JavaScript, ES6, React.js, Redux, Bootstrap, Flexbox, Tailwind CSS, and Responsive web design,
+🚀 Skilled in Front-End Technologies such as HTML, CSS, JavaScript, ES6, React.js, Redux, Bootstrap, Flexbox, Tailwind CSS, Material UI, and Responsive web design,
 
 💼 Throughout my journey as a front-end developer, I have collaborated on various projects, contributing to the development of both small-scale websites and complex web applications.
 
@@ -39,7 +39,6 @@
 [![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![github pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/)
 [![visualstudio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
