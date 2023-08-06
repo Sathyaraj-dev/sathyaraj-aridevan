@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sathyaraj Aridevan</h1>
+![github-header-image](https://github.com/Sathyaraj-dev/Sathyaraj-dev/assets/57762726/ebf1feea-9f81-492c-bf7c-4091df6e076d)
+
+
+
 <h3 align="center">A Senior front-end developer from India</h3>
 
 
