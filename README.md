@@ -1,4 +1,6 @@
 
+![github-header-image](https://github.com/Sathyaraj-dev/Sathyaraj-dev/assets/57762726/f696539e-2a92-4360-9505-5b3717db0e4a)
+
 <h3 align="center">A Senior front-end developer from India</h3>
 
 
