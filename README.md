@@ -6,7 +6,7 @@
 
 👋 I'm a passionate and highly skilled front-end developer with a keen eye for design and a love for creating engaging user experiences. My expertise lies in building responsive and interactive web applications using the latest technologies and best practices.
 
-🚀 Skilled in Front-End Technologies such as HTML, CSS, JavaScript, ES6, React.js, Redux, Bootstrap, Flexbox, Tailwind CSS, Material UI, and Responsive web design,
+🚀 Skilled in Front-End Technologies such as HTML, CSS, JavaScript, ES6, jQuery, ReactJS, Redux, Redux Toolkit, Bootstrap, Flexbox, Tailwind CSS, Material UI, and Responsive web design,
 
 💼 Throughout my journey as a front-end developer, I have collaborated on various projects, contributing to the development of both small-scale websites and complex web applications.
 
