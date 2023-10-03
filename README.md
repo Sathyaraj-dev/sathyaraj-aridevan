@@ -1,6 +1,6 @@
 
 
-<h3 align="center">A Senior front-end developer from India</h3>
+<h3 align="center">Senior front-end developer | Web Developer | UI Developer</h3>
 
 
 👋 I'm a passionate and highly skilled front-end developer with a keen eye for design and a love for creating engaging user experiences. My expertise lies in building responsive and interactive web applications using the latest technologies and best practices.
