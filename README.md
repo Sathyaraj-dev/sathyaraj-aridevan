@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Senior Front-end developer | Web Developer </h3>
+<h3 align="center">Senior Front-end developer </h3>
 
 
 👋 I'm a passionate and highly skilled front-end developer with a keen eye for design and a love for creating engaging user experiences. My expertise lies in building responsive and interactive web applications using the latest technologies and best practices.
